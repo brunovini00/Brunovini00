@@ -12,12 +12,9 @@ Olá !!! Eu sou o Bruno Oliveira
 </div>
 
   <div style = "display: inline_block"> <br>
-  <img align = "center" alt = "Bruno-Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg ">
-  <img align = "center" alt = "Bruno-Ts" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain .svg ">
-  <img align = "center" alt = "Bruno-React" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original .svg ">
-  <img align = "center" alt = "Bruno-HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg ">
-  <img align = "center" alt = "Bruno-CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg ">
-  <img align = "center" alt = "Bruno-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original .svg ">
-  <img align = "center" alt = "Bruno-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original .svg ">
+  <img align = "center" alt = "Bruno-Js" height = "70" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align = "center" alt = "Bruno-HTML" height = "70" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+  <img align = "center" alt = "Bruno-CSS" height = "70" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+  <img align = "center" alt = "Bruno-C++" height = "70" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align = "right" alt = "Bruno-yoda" src = "https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>a
+</div>
