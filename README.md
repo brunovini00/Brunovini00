@@ -1,6 +1,6 @@
 Olá !!! Eu sou o Bruno Oliveira
 
-- 🔭 I’m currentlmente procurando estágio em Front-end
+- 🔭 I’m currentlmente procurando estágio
 - 🌱 Estoui estudando  Análise de  Desenvolvimento
 - 😄 Pronouns: ele/dele
 
