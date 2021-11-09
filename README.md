@@ -22,4 +22,4 @@ Olá !!! Eu sou o Bruno Oliveira
   <a href="https://www.instagram.com/bruno_vini_00/" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
  	<a href="https://www.twitch.tv/brunovini00" target="_blank"> <img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the- emblema & logo = twitch & logoColor = white "target =" _ blank "> </a>
  <a href="https://discord.gg/G9GPg5SA75" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a> 
-  <a href = "mailto:contato@rafaballerini.tech"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+  <a href = "mailto:brunovini00@outlook.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
