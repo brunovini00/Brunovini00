@@ -1,7 +1,7 @@
 Olá !!! Eu sou o Bruno Oliveira
 
-- 🔭 I’m currentlmente procurando estágio
-- 🌱 Estoui estudando  Análise de  Desenvolvimento
+- 🔭 Estágio em Análise de Sistemas
+- 🌱 Font-end
 - 😄 Pronouns: ele/dele
 
 <div>
@@ -16,9 +16,10 @@ Olá !!! Eu sou o Bruno Oliveira
   <img align = "center" alt = "Bruno-CSS" height = "70" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img align = "center" alt = "Bruno-C++" height = "70" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 </div>
-
-  <div> 
+<br>
+<div> 
   <a href="https://www.linkedin.com/in/bruno-oliveira-42985a187/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target =" _ blank "> 
   <a href="https://www.instagram.com/bruno_vini_00/" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
  	<a href="https://www.twitch.tv/brunovini00" target="_blank"> <img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the- emblema & logo = twitch & logoColor = white "target =" _ blank "> </a>
   <a href = "mailto:brunovini00@outlook.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+</div>
