@@ -1,8 +1,18 @@
 <h1>Olá !!! Eu sou o Bruno Oliveira</h1>
 
-- 🚀 Font-end
+- 🚀 Software Developer || Frontend Developer || Fluig || React || Javascript || HTML || CSS
 - 🔭 Análise de Sistemas 3/5
-- ✅ Mecatrônica Industrial 6/6 
+- ✅ Mecatrônica Industrial 6/6
+
+✔ FLUIG;
+✔ Javascript;
+✔ HTML;
+✔ CSS;
+✔ Desenvolvimento WEB;
+✔ Desenvolvimento de rotinas e aplicativos utilizando a plataforma TOTVS Fluig;
+✔ Elaboração de cronograma de atividades;
+✔ Desenvolvimento de processos para digitalização da empresa;
+✔ Testes e validações de processos com os usuários;
 
 <div>
   <a href="https://github.com/brunovini00">
