@@ -1,32 +1,46 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D4FF&height=200&section=header&text=Bruno%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0077B5&height=250&section=header&text=Bruno%20Oliveira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Fluig%20Frontend%20|%20Web%20Developer%20|%20Ex-Professor%20SENAI&descAlignY=58&descSize=18"/>
 
 <div align="center">
 
 # 👋 Olá, eu sou o Bruno Oliveira
 
-### 🚀 Desenvolvedor Fluig Frontend | Web Developer | Ex-Professor SENAI
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Fluig+Frontend;Especialista+em+Widgets%2C+Formulários+e+Datasets;Frontend+com+HTML%2C+CSS%2C+JavaScript+e+React;Ex-Professor+SENAI+em+Desenvolvimento+de+Sistemas;Criando+soluções+modernas+e+inteligentes+🚀" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Fluig+Frontend;Especialista+em+Widgets%2C+Formulários+e+Workflows;Frontend+com+HTML%2C+CSS%2C+JavaScript+e+React;Ex-Professor+SENAI+em+Sistemas+e+Web+Design" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=brunovini00&label=Visualizações&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 🚀 Sobre mim
 
-Sou **Desenvolvedor Fluig Frontend**, com experiência na criação de **formulários, widgets, datasets, workflows e interfaces web** utilizando a plataforma **TOTVS Fluig**.
+<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Também atuei como **Professor no SENAI**, ministrando conteúdos de **Desenvolvimento de Sistemas** e **Web Design**.
+💻 Desenvolvedor especializado em **TOTVS Fluig**
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- ✅ Técnico em **Mecatrônica Industrial**
-- 💻 Desenvolvedor **Fluig Frontend**
-- 🧩 Experiência com **TOTVS Fluig, JavaScript, HTML, CSS e React**
-- 🏫 Ex-professor SENAI em **Desenvolvimento de Sistemas e Web Design**
+🎨 Foco em desenvolvimento **Frontend moderno**
+
+🧩 Experiência com:
+- Widgets Fluig
+- Formulários avançados
+- Workflows
+- Datasets
+- Integrações
+- Processos digitais
+
+🏫 Ex-professor SENAI em:
+- Desenvolvimento de Sistemas
+- Web Design
+
+🎓 Formado em:
+- Análise e Desenvolvimento de Sistemas
+- Mecatrônica Industrial
 
 ---
 
-## 🚀 Tecnologias
+# ⚡ Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -38,75 +52,62 @@ Também atuei como **Professor no SENAI**, ministrando conteúdos de **Desenvolv
 <img src="https://img.shields.io/badge/TOTVS-003B71?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Frontend-00D4FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Web%20Design-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-16a34a?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧩 Especialidades
+# 🧠 Especialidades
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🧩 Fluig</h3>
-      <p>Formulários, widgets, datasets, workflows e processos digitais.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎨 Frontend</h3>
-      <p>Interfaces modernas, responsivas, funcionais e bem estruturadas.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>⚙️ Automação</h3>
-      <p>Digitalização e otimização de fluxos corporativos.</p>
-    </td>
-    <td align="center">
-      <h3>👨‍🏫 Educação</h3>
-      <p>Ensino de Desenvolvimento de Sistemas e Web Design.</p>
-    </td>
-  </tr>
-</table>
+| 🧩 Fluig | 🎨 Frontend |
+|---|---|
+| Widgets, datasets, workflows e processos digitais | Interfaces modernas, responsivas e performáticas |
+
+| ⚙️ Automação | 👨‍🏫 Educação |
+|---|---|
+| Digitalização e otimização de fluxos corporativos | Ensino de Sistemas e Web Design |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=brunovini00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunovini00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovini00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovini00&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de Contribuições
+# 🔥 Sequência de Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brunovini00&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=brunovini00&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR"/>
 
 </div>
 
 ---
 
-## 📈 Atividade no GitHub
+# 📈 Atividade no GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunovini00&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunovini00&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribuições Animadas
+# 🐍 Contribuições Animadas
 
 <div align="center">
 
@@ -116,35 +117,71 @@ Também atuei como **Professor no SENAI**, ministrando conteúdos de **Desenvolv
 
 ---
 
-## 🏆 Troféus
+# 🏆 Troféus GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=brunovini00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=brunovini00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
 ---
 
-## 🌐 Contato
+# 🌌 Skills Animadas
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunovini00&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunovini00&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brunovini00&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brunovini00&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brunovini00&theme=tokyonight&utcOffset=-3"/>
+
+</div>
+
+---
+
+# 🌐 Vamos nos conectar!
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bruno-oliveira-42985a187/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:brunovini00@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/bruno_vini_00/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.twitch.tv/brunovini00" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+# 💡 Frase
+
+<div align="center">
+
+### “Tecnologia é transformar processos complexos em soluções simples, modernas e eficientes.”
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -152,8 +189,10 @@ Também atuei como **Professor no SENAI**, ministrando conteúdos de **Desenvolv
 
 <div align="center">
 
-### 💡 “Tecnologia é transformar processos complexos em soluções simples, eficientes e acessíveis.”
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U1eTZ0MnB2b2w5dXNjMW81dGVyZmM1eWg3NW40d2M0eHB6cWhiYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="250"/>
+
+### 🚀 Obrigado por visitar meu perfil!
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0077B5&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D4FF&height=180&section=footer"/>
