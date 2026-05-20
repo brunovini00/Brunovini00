@@ -75,18 +75,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunovini00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovini00&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-</div>
-
----
-
 # 🔥 Sequência de Contribuições
 
 <div align="center">
@@ -102,16 +90,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunovini00&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribuições Animadas
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/brunovini00/brunovini00/output/snake.svg" alt="Snake animation" />
 
 </div>
 
